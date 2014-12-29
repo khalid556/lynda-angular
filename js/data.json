@@ -1,0 +1,20 @@
+{
+  "first_name": "khalid",
+  "last_name": "ksar",
+  "age": 36,
+  "hobies": [
+    "Natation",
+    "Cinema",
+    "Lecture"
+  ],
+  "children": [
+    {
+      "age": "6",
+      "name": "Layla"
+    },
+    {
+      "age": "16",
+      "sex": "Ahmed"
+    }
+  ]
+}
